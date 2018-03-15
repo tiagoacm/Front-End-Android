@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e0a5c</color>
+    <color name="colorPrimaryDark">#180333</color>
+    <color name="colorAccent">#f98328</color>
+    <color name="btnConfirmar">#f98328</color>
+    <color name="btnExcluir">#bebdbd</color>
+
+</resources>

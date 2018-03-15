@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.boxer.applojatm.LoginActivity">
+    <item
+        android:id="@+id/action_meusDados"
+        android:orderInCategory="100"
+        android:title="Meus Dados"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sair"
+        android:orderInCategory="100"
+        android:title="Sair"
+        app:showAsAction="never" />
+
+</menu>
